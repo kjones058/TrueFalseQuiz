@@ -1,0 +1,15 @@
+{"questions":
+    [
+      {"question1": "Spiderman died in Infinty War",
+        "answer": "true"},
+      {"question2": "Batman is in the Marvel universe",
+        "answer": "false"},
+      {"question3": "There were 6 original avengers",
+        "answer": "true"},
+      {"question4": "Thor disguised himself as Odin in Ragnorak",
+        "answer": "false"},
+      {"question5": "Spiderman's true identity is Peter Parsel",
+        "answer": "false"},
+
+    ]}
+
